@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/the-modified-string-1587115621/1">The Modified String</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given a string <strong>s</strong>, a string is considered valid if it does not contain three consecutive identical characters. You may insert characters at any position in the string.</span></p><p><span style="font-size: 18px;">Return the <strong>minimum</strong> number of insertions required to make s valid.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>s = "aabbbcc"
+<strong>Output: </strong>1<strong>
+Explanation: </strong>In "aabbbcc" 3 b's occur consecutively, we need to add a 'd', and Hence, the output will be "aabbdbcc".</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input: </strong>s = "aaaaa"
+<strong>Output: </strong>2<strong>
+Explanation: </strong>In "aaaaa" 5 a's occur consecutively, we need to add 2 'b', and Hence, the output will be "aababaa".</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Strings</code>&nbsp;
